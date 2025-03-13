@@ -20,10 +20,10 @@ body {
 }
 
 .top-bar{
-    height: 35px;
+    height: 60px;
     margin-left: 15%;
     background-color: #2f3542;
-    line-height: 35px;
+    line-height: 60px;
     color: white;
     border-bottom: 2px solid white;
     
