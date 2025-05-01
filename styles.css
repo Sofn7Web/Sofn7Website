@@ -37,6 +37,11 @@ li {
     border-bottom: 1px solid white;
 }
 
+.li-smallbar {
+    width: 60%;
+    margin-left: 17%;
+}
+
 .left-align {
     text-align: left;
     margin-top: 10vh;
@@ -133,6 +138,11 @@ header{
 
 .event-links>a:hover {
     background-color: #2f3542;
+}
+
+.Trollhaugen-ad {
+    width: 670px;
+    height: auto;
 }
 
 #sofn-links {
